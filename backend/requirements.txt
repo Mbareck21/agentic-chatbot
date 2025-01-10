@@ -1,0 +1,15 @@
+# Core Framework
+flask==3.0.0
+flask-cors==4.0.0
+
+# AI and Model Dependencies
+smolagents==0.1.0
+litellm==0.1.1
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Development Tools
+black==23.12.1
+python-dotenv==1.0.0
